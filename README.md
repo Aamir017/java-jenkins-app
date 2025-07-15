@@ -91,8 +91,10 @@ https://hub.docker.com/r/your-dockerhub-username/java-jenkins-app
 
 
 🙌 Author
-Built by Aamir017 using DevOps tools from scratch!
+🙌 Author  
 
-GitHub: github.com/Aamir017
+Built by **Aamir017** using DevOps tools from scratch!  
 
-DockerHub: hub.docker.com/u/Aamir017
+GitHub: [github.com/Aamir017](https://github.com/Aamir017)  
+DockerHub: [hub.docker.com/u/Aamir017](https://hub.docker.com/u/Aamir017)
+
