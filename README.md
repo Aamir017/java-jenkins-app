@@ -27,7 +27,7 @@ This is a minimal Spring Boot web application used to demonstrate a full CI/CD p
 ---
 
 ## 🏗️ Project Structure
-
+```text
 java-jenkins-app/
 ├── src/
 │ └── main/
@@ -37,7 +37,7 @@ java-jenkins-app/
 ├── pom.xml
 ├── Dockerfile
 └── .dockerignore (optional)
-
+```
 ---
 
 ## 🚀 Getting Started
