@@ -1,4 +1,4 @@
-# ☕ Java Jenkins CI/CD Demo App
+#  Java Jenkins CI/CD Demo App
 
 This is a minimal Spring Boot web application used to demonstrate a full CI/CD pipeline using **Jenkins**, **Docker**, and **DockerHub**. It prints a simple response via a REST API.
 
