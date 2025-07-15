@@ -1,0 +1,13 @@
+# Ignore Maven build output
+target/
+
+# Ignore Git folder
+.git
+.gitignore
+
+# Ignore IDE-specific files
+*.iml
+.idea/
+
+# Ignore Dockerfile itself (optional)
+Dockerfile
