@@ -90,9 +90,8 @@ The image gets pushed to:
 https://hub.docker.com/r/your-dockerhub-username/java-jenkins-app
 
 
-🙌 Author
-🙌 Author  
 
+🙌 Author  
 Built by **Aamir017** using DevOps tools from scratch!  
 
 GitHub: [github.com/Aamir017](https://github.com/Aamir017)  
