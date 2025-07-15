@@ -29,14 +29,14 @@ This is a minimal Spring Boot web application used to demonstrate a full CI/CD p
 ## 🏗️ Project Structure
 
 java-jenkins-app/
-├── src/
-│   └── main/
+├──src/
+│   └──main/
 │       └── java/com/example/demo/
 │           ├── DemoApplication.java
 │           └── HelloController.java
 ├── pom.xml
 ├── Dockerfile
-└── .dockerignore  (optional)
+└── .dockerignore
 
 ---
 
