@@ -89,7 +89,7 @@ Make sure to set DOCKERHUB_USER and DOCKERHUB_PASS as Jenkins credentials.
 The image gets pushed to:
 https://hub.docker.com/r/your-dockerhub-username/java-jenkins-app
 
-
+---
 
 ### 🙌 Author  
 Built by **Aamir017** using DevOps tools from scratch!  
